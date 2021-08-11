@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Linux, Kubernetes, th2**
 
-- 👨‍💻 All of my projects are available at [my personal site](https://d0rich.github.io/en/portfolio/)
+- 👨‍💻 All of my projects are available at [my personal site](https://d0rich.github.io/#/en/portfolio/)
 
 - 💬 Ask me about **vue, node.js**
 
 - 📫 How to reach me **d.orich@yandex.com**
 
-- 📄 Know about my experiences [resume](https://d0rich.github.io/en/about/resume)
+- 📄 Know about my experiences [resume](https://d0rich.github.io/#/en/about/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
