@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **d.orich@yandex.com**
 
-- 📄 Know about my experiences [resume](https://d0rich.github.io/#/en/about/resume)
+- 📄 Know about my experiences [resume](https://d0rich.github.io/#/en/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
