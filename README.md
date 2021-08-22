@@ -35,6 +35,7 @@
   <img align="left" src="https://activity-graph.herokuapp.com/graph?username=d0rich&hide_border=true&theme=dracula" alt="d0rich" />
 </p>
 
+.
 <hr>
 
 <h3 align="left">Skills:</h3>
