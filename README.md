@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikolay Dorofeev</h1>
-<h3 align="center">Ultimate software developer from Russia (focus on JavaScript)</h3>
+<h3 align="center">Ultimate software developer </h3>
 
 <hr>
 
