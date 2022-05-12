@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d0rich&label=Profile%20views&color=0e75b6&style=flat" alt="d0rich" /> </p>
 
 
-- 🔭 I’m currently working on [News Archive](https://github.com/d0rich/news-archive)
+- 🔭 I’m currently working on [Tradebot](https://github.com/badlabs/trade-bot--tinkoff)
 
 - 🌱 I’m currently learning **Linux, Kubernetes, th2**
 
