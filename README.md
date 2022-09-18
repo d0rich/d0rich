@@ -6,19 +6,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d0rich&label=Profile%20views&color=0e75b6&style=flat" alt="d0rich" /> </p>
 
 
-- 🔭 I’m currently working on [Tradebot](https://github.com/badlabs/trade-bot--tinkoff)
+- 🔭 I’m currently working on [th2 CLI](https://github.com/d0rich/th2-cli)
 
-- 🌱 I’m currently learning **Linux, Kubernetes, th2**
+- 🌱 I’m currently learning **DLT**
 
 - 👨‍💻 All of my projects are available at [my personal site](https://d0rich.github.io/portfolio/)
 
-- 💬 Ask me about **Vue.js / Nuxt.js, Node.js**
+- 💬 Ask me about **Vue.js / Nuxt.js, Node.js, Microservices**
 
 - 📫 How to reach me **d.orich@yandex.com**
 
 - 📄 Know about my experiences [resume](https://d0rich.github.io/resume/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikolay-dorofeev-797ab3215" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikolay-dorofeev-797ab3215" height="30" width="40" />
