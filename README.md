@@ -6,10 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d0rich&label=Profile%20views&color=0e75b6&style=flat" alt="d0rich" /> </p>
 
 
-- 🔭 I’m currently working on [th2 CLI](https://github.com/d0rich/th2-cli)
-
-- 🌱 I’m currently learning **DLT**
-
 - 👨‍💻 All of my projects are available at [my personal site](https://d0rich.github.io/portfolio/)
 
 - 💬 Ask me about **Vue.js / Nuxt.js, Node.js, Microservices**
