@@ -10,7 +10,6 @@ I easily adapt to new technologies and spread knowledge through mentoring.
 
 - 🌐 Visit my [portfolio website](https://d0rich.me/) for more information and to get in touch.
 - 👋 Check out my personal [blog](https://d0rich.me/blog/) for articles and insights.
-- ✍️ View my [learning projects](https://github.com/d0rich-learning) in specially created organization.
 
 ---
 
